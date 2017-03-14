@@ -1,5 +1,8 @@
 _repo: Michel-and-Angele-A-Ladder-of-Swords-Volume-3_6252
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parker, Gilbert
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1285
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6252#Michel-and-Angele-A-Ladder-of-Swords-Volume-3
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
