@@ -1,5 +1,5 @@
 _repo: Michel-and-Angele-A-Ladder-of-Swords-Volume-3_6252
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Huguenots -- Fiction'
 - !lcsh 'Jersey (Channel Islands) -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: Michel and Angele [A Ladder of Swords] — Volume 3
 url: http://www.gutenberg.org/ebooks/6252
